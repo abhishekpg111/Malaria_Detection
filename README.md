@@ -1,5 +1,5 @@
 # Malaria Detection
-This project is developed for detecting the malaria infection based on CNN image classifier trained on Tensorflow Keras. It is deployed into Heroku using Flask. Please click (here)[https://malaria-detection-abhi.herokuapp.com/] to redirect to the project.
+This project is developed for detecting the malaria infection based on CNN image classifier trained on Tensorflow Keras. It is deployed into Heroku using Flask. Please click [here](https://malaria-detection-abhi.herokuapp.com/) to redirect to the project.
 
 ## 1. Development Environment
 -Python 3.8
