@@ -4,7 +4,7 @@ This project is developed for detecting the malaria infection based on CNN image
 ## 1. Development Environment
 -Python 3.8
 
-## 2. Steps for running on local server using FLASK
+## 2. Steps for deploying to local server using FLASK
 
 __Step 1: Install the dependencies__
 
